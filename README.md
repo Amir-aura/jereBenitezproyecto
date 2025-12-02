@@ -10,3 +10,4 @@
 7/11: Hoy probamos el esquema digital en un arduino real, el esquema funciono, por culpa de traverso descubrimos un prolbema de voltaje.
 14/11: Hoy avanzamos en el esquema así la proxima clase tratamos que simular la cerradura de una vez por todas.
 28/11: sigo pensando q conosrti no entiende nada de la vida y nos hizo perder un monton de tiempo al punto de no poder terminar el proyecto hoy, el dia 2/12 va a ser el ultimo día de este proyecto 😩 👹 kys, sybau.
+2/12: Terminamos el proyecto con un par de dificultades pero lo logramos a tiempo y aprobamos la materia de una vez 😎😎😎😎.
